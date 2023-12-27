@@ -4,6 +4,7 @@ body {
 
 .banner-container {
     background-color: rgb(170, 186, 187);
+    
 }
 
 .banner-column {
@@ -12,4 +13,28 @@ body {
 
 .navbar-container {
     background-color: #262B37;
+}
+
+.about-container {
+    background-color: #AABABB ;
+}
+
+.education-container {
+    background-color: #ffffffc0 ;
+}
+
+.bg-red {
+    background-color:#efbcb9 ;
+}
+
+.bg-red-text {
+    color:#3ea3ce ;
+}
+
+.circle {
+    background-color: #efbcb9;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
 }

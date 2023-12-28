@@ -12,7 +12,9 @@ body {
 }
 
 .navbar-container {
+    top: 0;
     background-color: #262B37;
+    position: sticky;
 }
 
 .about-container {
@@ -32,9 +34,17 @@ body {
 }
 
 .circle {
-    background-color: #efbcb9;
+    background-color: #3ea3ce;
     width: 150px;
     height: 150px;
     border-radius: 50%;
     text-align: center;
+}
+
+.project-container {
+    background-color: #3ea3ce;
+}
+
+.gallary-container {
+    background-color: #3ea3ce;
 }

@@ -1,14 +1,17 @@
 body {
     font-family: 'Open Sans', sans-serif;
-}
-
-.banner-container {
-    background-color: rgb(170, 186, 187);
     
 }
 
+/* .banner-container {
+    background-color: rgb(170, 186, 187);
+    
+} */
+
+
 .banner-column {
     background-color: azure;
+
 }
 
 .navbar-container {
@@ -25,6 +28,9 @@ body {
     background-color: #ffffffc0 ;
 }
 
+.experience-container {
+    background-color: #ffffffc0 ;
+}
 .bg-red {
     background-color:#efbcb9 ;
 }
@@ -42,9 +48,13 @@ body {
 }
 
 .project-container {
-    background-color: #3ea3ce;
+    background-color: #AABABB;
 }
 
 .gallary-container {
-    background-color: #3ea3ce;
+    background-color: #AABABB;
+}
+
+.form-container {
+    background-color:#ffffffc0 ;
 }
